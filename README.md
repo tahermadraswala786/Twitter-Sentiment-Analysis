@@ -26,11 +26,9 @@ To use the Kaggle dataset:
 
  Step 3: Configure Kaggle API Path
 Set up the Kaggle API by running the following commands:
-```python
 !mkdir -p ~/.kaggle
 !cp kaggle.json ~/.kaggle/
 !chmod 600 ~/.kaggle/kaggle.json
-
 
  Usage
 1. Run the notebook on Google Colab.
